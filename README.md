@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 CONFIG
 FULL_NAME: Andres Fernando Salinas Vargas
