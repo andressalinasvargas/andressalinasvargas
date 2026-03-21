@@ -23,6 +23,7 @@ Además, tengo intereses artísticos: soy músico y me especializo en instrument
 
 En el ámbito deportivo, aunque no soy muy atlético, me gusta practicar voleibol.  
 Provengo de una zona rural, específicamente de una vereda del municipio de Palermo conocida como Guadualito, lo cual ha influido en mi forma de ser.
+Quiero aprender mas sobre:
 
 - HTML  
 - CSS  
