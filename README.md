@@ -15,8 +15,14 @@ CODE_ORGANIZATION: code-sena
 <h2 align="center">ADSO-3413974</h2>
 
 ## 🚀 Sobre mí
+
 Soy estudiante del programa **Análisis y Desarrollo de Software (ADSO)** en el SENA.  
-Me apasiona el desarrollo web y actualmente me gustaria aprender mas acerca del mundo laborar y con:
+Me apasiona el desarrollo web y tengo un gran interés en seguir aprendiendo sobre el mundo laboral en el área tecnológica, fortaleciendo mis habilidades tanto técnicas como profesionales.
+
+Además, tengo intereses artísticos: soy músico y me especializo en instrumentos de cuerda, principalmente en guitarra, tiple, ukelele y requinto. También disfruto dibujar y tengo conocimientos básicos en edición de video, actividades que realizo como pasatiempo y en las que continúo mejorando.
+
+En el ámbito deportivo, aunque no soy muy atlético, me gusta practicar voleibol.  
+Provengo de una zona rural, específicamente de una vereda del municipio de Palermo conocida como Guadualito, lo cual ha influido en mi forma de ser.
 
 - HTML  
 - CSS  
