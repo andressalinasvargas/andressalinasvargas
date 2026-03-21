@@ -32,7 +32,12 @@ Me apasiona el desarrollo web y actualmente me gustaria aprender mas acerca del 
 
 ---
 
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressalinasvargas&show_icons=true)
+## 📊 Estadísticas de GitHub
 
-![Racha](https://github-readme-streak-stats.herokuapp.com/?user=andressalinasvargas)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andressalinasvargas&show_icons=true&locale=es&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andressalinasvargas&locale=es&theme=dark" />
+</p>
