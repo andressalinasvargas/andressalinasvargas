@@ -29,7 +29,8 @@ Quiero aprender mas sobre:
 - CSS  
 - PHP  
 - MySQL  
-- Metodologías ágiles (SCRUM)  
+- Metodologías ágiles (SCRUM)
+- Java
 
 ---
 
